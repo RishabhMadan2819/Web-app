@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "VbwtEfXQNEFrQPHdxnEEA7yMMIKMNsvq0NVGd/mYWMPj5QB5ID2o0ny4qIb9vSQS8SURQzO47pUYxBmUcw7gQQ==",
+  "dgSpecHash": "eH7Zdl/5zz0BIeAFymYfb7pt4nexleF2LVPOsHBRZJzvQlfGCkyAWwmLyGLNpje5DodunzLjpJzXwyUHIyAi7g==",
   "success": true,
   "projectFilePath": "C:\\Users\\rishabhmadan\\source\\BookReadingWebApp\\BookReadingWebApp\\BookReadingApp.Web.csproj",
   "expectedPackageFiles": [
@@ -57,6 +57,7 @@
     "C:\\Users\\rishabhmadan\\.nuget\\packages\\microsoft.net.http.headers\\2.2.0\\microsoft.net.http.headers.2.2.0.nupkg.sha512",
     "C:\\Users\\rishabhmadan\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\rishabhmadan\\.nuget\\packages\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",
+    "C:\\Users\\rishabhmadan\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512",
     "C:\\Users\\rishabhmadan\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\rishabhmadan\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\rishabhmadan\\.nuget\\packages\\runtime.native.system\\4.0.0\\runtime.native.system.4.0.0.nupkg.sha512",

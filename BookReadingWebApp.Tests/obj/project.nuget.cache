@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "/gPvrCmsqG1jbj78+Yj6UMcbgWtVJ/ktFKtnpUTdZiI//0lsV36n97nkV0ZME7DCkIhmS23EQt8okr/ys+ssyw==",
+  "dgSpecHash": "OERea0IOb53s8EPK+3zQiPQyJibAoRe75BIkBAhfygkXIhVb4TwG/txjsq/E6ienSaUFHZ+9BYY1CfWqMzNNqw==",
   "success": true,
   "projectFilePath": "C:\\Users\\rishabhmadan\\source\\BookReadingWebApp\\BookReadingWebApp.Tests\\BookReadingWebApp.Tests.csproj",
   "expectedPackageFiles": [
@@ -79,6 +79,7 @@
     "C:\\Users\\rishabhmadan\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\rishabhmadan\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.5.0\\microsoft.testplatform.objectmodel.17.5.0.nupkg.sha512",
     "C:\\Users\\rishabhmadan\\.nuget\\packages\\microsoft.testplatform.testhost\\17.5.0\\microsoft.testplatform.testhost.17.5.0.nupkg.sha512",
+    "C:\\Users\\rishabhmadan\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512",
     "C:\\Users\\rishabhmadan\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\rishabhmadan\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\rishabhmadan\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
