@@ -1,0 +1,48 @@
+C:\Users\naman\source\repos\BookReadingWebApp\BookReadingApp.Core\bin\Debug\net5.0\BookReadingApp.Core.deps.json
+C:\Users\naman\source\repos\BookReadingWebApp\BookReadingApp.Core\bin\Debug\net5.0\BookReadingApp.Core.dll
+C:\Users\naman\source\repos\BookReadingWebApp\BookReadingApp.Core\bin\Debug\net5.0\BookReadingApp.Core.pdb
+C:\Users\naman\source\repos\BookReadingWebApp\BookReadingApp.Core\obj\Debug\net5.0\BookReadingApp.Core.csproj.AssemblyReference.cache
+C:\Users\naman\source\repos\BookReadingWebApp\BookReadingApp.Core\obj\Debug\net5.0\BookReadingApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naman\source\repos\BookReadingWebApp\BookReadingApp.Core\obj\Debug\net5.0\BookReadingApp.Core.AssemblyInfoInputs.cache
+C:\Users\naman\source\repos\BookReadingWebApp\BookReadingApp.Core\obj\Debug\net5.0\BookReadingApp.Core.AssemblyInfo.cs
+C:\Users\naman\source\repos\BookReadingWebApp\BookReadingApp.Core\obj\Debug\net5.0\BookReadingApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\naman\source\repos\BookReadingWebApp\BookReadingApp.Core\obj\Debug\net5.0\BookReadingApp.Core.dll
+C:\Users\naman\source\repos\BookReadingWebApp\BookReadingApp.Core\obj\Debug\net5.0\refint\BookReadingApp.Core.dll
+C:\Users\naman\source\repos\BookReadingWebApp\BookReadingApp.Core\obj\Debug\net5.0\BookReadingApp.Core.pdb
+C:\Users\naman\source\repos\BookReadingWebApp\BookReadingApp.Core\obj\Debug\net5.0\ref\BookReadingApp.Core.dll
+C:\Users\naman\OneDrive\Desktop\Dotnet\ASP.NET MVC CORE\BookReadingWebApp\BookReadingApp.Core\bin\Debug\net5.0\BookReadingApp.Core.deps.json
+C:\Users\naman\OneDrive\Desktop\Dotnet\ASP.NET MVC CORE\BookReadingWebApp\BookReadingApp.Core\bin\Debug\net5.0\BookReadingApp.Core.dll
+C:\Users\naman\OneDrive\Desktop\Dotnet\ASP.NET MVC CORE\BookReadingWebApp\BookReadingApp.Core\bin\Debug\net5.0\BookReadingApp.Core.pdb
+C:\Users\naman\OneDrive\Desktop\Dotnet\ASP.NET MVC CORE\BookReadingWebApp\BookReadingApp.Core\obj\Debug\net5.0\BookReadingApp.Core.csproj.AssemblyReference.cache
+C:\Users\naman\OneDrive\Desktop\Dotnet\ASP.NET MVC CORE\BookReadingWebApp\BookReadingApp.Core\obj\Debug\net5.0\BookReadingApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naman\OneDrive\Desktop\Dotnet\ASP.NET MVC CORE\BookReadingWebApp\BookReadingApp.Core\obj\Debug\net5.0\BookReadingApp.Core.AssemblyInfoInputs.cache
+C:\Users\naman\OneDrive\Desktop\Dotnet\ASP.NET MVC CORE\BookReadingWebApp\BookReadingApp.Core\obj\Debug\net5.0\BookReadingApp.Core.AssemblyInfo.cs
+C:\Users\naman\OneDrive\Desktop\Dotnet\ASP.NET MVC CORE\BookReadingWebApp\BookReadingApp.Core\obj\Debug\net5.0\BookReadingApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\naman\OneDrive\Desktop\Dotnet\ASP.NET MVC CORE\BookReadingWebApp\BookReadingApp.Core\obj\Debug\net5.0\BookReadingApp.Core.dll
+C:\Users\naman\OneDrive\Desktop\Dotnet\ASP.NET MVC CORE\BookReadingWebApp\BookReadingApp.Core\obj\Debug\net5.0\refint\BookReadingApp.Core.dll
+C:\Users\naman\OneDrive\Desktop\Dotnet\ASP.NET MVC CORE\BookReadingWebApp\BookReadingApp.Core\obj\Debug\net5.0\BookReadingApp.Core.pdb
+C:\Users\naman\OneDrive\Desktop\Dotnet\ASP.NET MVC CORE\BookReadingWebApp\BookReadingApp.Core\obj\Debug\net5.0\ref\BookReadingApp.Core.dll
+C:\Users\rishabhmadan\OneDrive - Nagarro\Desktop\online 4\BookReadingWebApp\BookReadingApp.Core\bin\Debug\net5.0\BookReadingApp.Core.deps.json
+C:\Users\rishabhmadan\OneDrive - Nagarro\Desktop\online 4\BookReadingWebApp\BookReadingApp.Core\bin\Debug\net5.0\BookReadingApp.Core.dll
+C:\Users\rishabhmadan\OneDrive - Nagarro\Desktop\online 4\BookReadingWebApp\BookReadingApp.Core\bin\Debug\net5.0\BookReadingApp.Core.pdb
+C:\Users\rishabhmadan\OneDrive - Nagarro\Desktop\online 4\BookReadingWebApp\BookReadingApp.Core\obj\Debug\net5.0\BookReadingApp.Core.csproj.AssemblyReference.cache
+C:\Users\rishabhmadan\OneDrive - Nagarro\Desktop\online 4\BookReadingWebApp\BookReadingApp.Core\obj\Debug\net5.0\BookReadingApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rishabhmadan\OneDrive - Nagarro\Desktop\online 4\BookReadingWebApp\BookReadingApp.Core\obj\Debug\net5.0\BookReadingApp.Core.AssemblyInfoInputs.cache
+C:\Users\rishabhmadan\OneDrive - Nagarro\Desktop\online 4\BookReadingWebApp\BookReadingApp.Core\obj\Debug\net5.0\BookReadingApp.Core.AssemblyInfo.cs
+C:\Users\rishabhmadan\OneDrive - Nagarro\Desktop\online 4\BookReadingWebApp\BookReadingApp.Core\obj\Debug\net5.0\BookReadingApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\rishabhmadan\OneDrive - Nagarro\Desktop\online 4\BookReadingWebApp\BookReadingApp.Core\obj\Debug\net5.0\BookReadingApp.Core.dll
+C:\Users\rishabhmadan\OneDrive - Nagarro\Desktop\online 4\BookReadingWebApp\BookReadingApp.Core\obj\Debug\net5.0\refint\BookReadingApp.Core.dll
+C:\Users\rishabhmadan\OneDrive - Nagarro\Desktop\online 4\BookReadingWebApp\BookReadingApp.Core\obj\Debug\net5.0\BookReadingApp.Core.pdb
+C:\Users\rishabhmadan\OneDrive - Nagarro\Desktop\online 4\BookReadingWebApp\BookReadingApp.Core\obj\Debug\net5.0\ref\BookReadingApp.Core.dll
+C:\Users\rishabhmadan\rishabh-madan\html css Assignment\BookReadingWebApp\BookReadingApp.Core\bin\Debug\net5.0\BookReadingApp.Core.deps.json
+C:\Users\rishabhmadan\rishabh-madan\html css Assignment\BookReadingWebApp\BookReadingApp.Core\bin\Debug\net5.0\BookReadingApp.Core.dll
+C:\Users\rishabhmadan\rishabh-madan\html css Assignment\BookReadingWebApp\BookReadingApp.Core\bin\Debug\net5.0\BookReadingApp.Core.pdb
+C:\Users\rishabhmadan\rishabh-madan\html css Assignment\BookReadingWebApp\BookReadingApp.Core\obj\Debug\net5.0\BookReadingApp.Core.csproj.AssemblyReference.cache
+C:\Users\rishabhmadan\rishabh-madan\html css Assignment\BookReadingWebApp\BookReadingApp.Core\obj\Debug\net5.0\BookReadingApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rishabhmadan\rishabh-madan\html css Assignment\BookReadingWebApp\BookReadingApp.Core\obj\Debug\net5.0\BookReadingApp.Core.AssemblyInfoInputs.cache
+C:\Users\rishabhmadan\rishabh-madan\html css Assignment\BookReadingWebApp\BookReadingApp.Core\obj\Debug\net5.0\BookReadingApp.Core.AssemblyInfo.cs
+C:\Users\rishabhmadan\rishabh-madan\html css Assignment\BookReadingWebApp\BookReadingApp.Core\obj\Debug\net5.0\BookReadingApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\rishabhmadan\rishabh-madan\html css Assignment\BookReadingWebApp\BookReadingApp.Core\obj\Debug\net5.0\BookReadingApp.Core.dll
+C:\Users\rishabhmadan\rishabh-madan\html css Assignment\BookReadingWebApp\BookReadingApp.Core\obj\Debug\net5.0\refint\BookReadingApp.Core.dll
+C:\Users\rishabhmadan\rishabh-madan\html css Assignment\BookReadingWebApp\BookReadingApp.Core\obj\Debug\net5.0\BookReadingApp.Core.pdb
+C:\Users\rishabhmadan\rishabh-madan\html css Assignment\BookReadingWebApp\BookReadingApp.Core\obj\Debug\net5.0\ref\BookReadingApp.Core.dll
