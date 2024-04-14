@@ -27,7 +27,7 @@ pipeline{
                     script {
                         def imageName = 'bookimage'
                         def imageTag = 'latest'
-                        def container_name = 'BookReadingApp'
+                        def container_name = 'BookApp'
                         def dockerfilePath = "${WORKSPACE}/BookReadingWebApp/Dockerfile"
                         def existingImageId = sh(script: "docker images -q ${imageName}:${imageTag}", returnStdout: true).trim()
                         if (existingImageId) {
