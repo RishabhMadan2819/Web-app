@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rishabhmadan\\rishabh-madan\\html css Assignment\\BookReadingWebApp\\BookReadingApp.Core\\BookReadingApp.Core.csproj": {}
+    "C:\\Users\\rishabhmadan\\source\\BookReadingWebApp\\BookReadingApp.Core\\BookReadingApp.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rishabhmadan\\rishabh-madan\\html css Assignment\\BookReadingWebApp\\BookReadingApp.Core\\BookReadingApp.Core.csproj": {
+    "C:\\Users\\rishabhmadan\\source\\BookReadingWebApp\\BookReadingApp.Core\\BookReadingApp.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rishabhmadan\\rishabh-madan\\html css Assignment\\BookReadingWebApp\\BookReadingApp.Core\\BookReadingApp.Core.csproj",
+        "projectUniqueName": "C:\\Users\\rishabhmadan\\source\\BookReadingWebApp\\BookReadingApp.Core\\BookReadingApp.Core.csproj",
         "projectName": "BookReadingApp.Core",
-        "projectPath": "C:\\Users\\rishabhmadan\\rishabh-madan\\html css Assignment\\BookReadingWebApp\\BookReadingApp.Core\\BookReadingApp.Core.csproj",
+        "projectPath": "C:\\Users\\rishabhmadan\\source\\BookReadingWebApp\\BookReadingApp.Core\\BookReadingApp.Core.csproj",
         "packagesPath": "C:\\Users\\rishabhmadan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rishabhmadan\\rishabh-madan\\html css Assignment\\BookReadingWebApp\\BookReadingApp.Core\\obj\\",
+        "outputPath": "C:\\Users\\rishabhmadan\\source\\BookReadingWebApp\\BookReadingApp.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rishabhmadan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -37,8 +37,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",

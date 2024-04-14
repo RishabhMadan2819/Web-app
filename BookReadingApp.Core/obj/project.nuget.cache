@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HmL1IGXR8EEYJgmvI/LIeC8Cu72It6S4bm51oNvvqfCcOB1Mx7u6U3nvadv/I/BaXxbdMvB71/1L7FQd0RVUvw==",
+  "dgSpecHash": "LaKVcoJlNaMTxyyjnVOlR3bDWeplI7mFBOxCzD/T8J3hpyn48hyYhkQPkRCkipKHiKkbSD1QSUEBzpcir54AXg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rishabhmadan\\rishabh-madan\\html css Assignment\\BookReadingWebApp\\BookReadingApp.Core\\BookReadingApp.Core.csproj",
+  "projectFilePath": "C:\\Users\\rishabhmadan\\source\\BookReadingWebApp\\BookReadingApp.Core\\BookReadingApp.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
