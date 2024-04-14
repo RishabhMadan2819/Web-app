@@ -49,6 +49,7 @@ namespace BookReadingWebApp
                 .AddEntityFrameworkStores<ApplicationDbContext>()
                 .AddDefaultTokenProviders();
 
+
             services.Configure<IdentityOptions>(option =>
             {
                 option.Password.RequiredLength = 5;
@@ -71,8 +72,19 @@ namespace BookReadingWebApp
             services.AddScoped<ICommentFacade, CommentFacade>();
             services.AddScoped<IEventFacade, EventFacade>();
             services.AddScoped<IFacadeFactory, FacadeFactory>();
+            ApplyMigration(services.BuildServiceProvider());
         }
-
+        void ApplyMigration(IServiceProvider serviceProvider)
+        {
+            using (var scope = serviceProvider.CreateScope())
+            {
+                var _db = scope.ServiceProvider.GetRequiredService<ApplicationDbContext>();
+                if (_db.Database.GetPendingMigrations().Any())
+                {
+                    _db.Database.Migrate();
+                }
+            }
+        }
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
